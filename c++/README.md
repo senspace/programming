@@ -13,3 +13,10 @@ Tutorial link: http://www.algolist.net/Data_structures/
 # Heap property for min heap
 # For every node in a heap, node's value is lesser or equal, than values of the children.
 
+3.:Binary Search Tree
+
+4.adjacency matrix for undirected graphs
+
+5.Hash Table
+
+6.Singly-linked list
