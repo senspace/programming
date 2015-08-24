@@ -20,3 +20,6 @@ Tutorial link: http://www.algolist.net/Data_structures/
 5.Hash Table
 
 6.Singly-linked list
+
+7.beginner
+# advanced for c++
