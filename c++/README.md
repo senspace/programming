@@ -21,5 +21,11 @@ Tutorial link: http://www.algolist.net/Data_structures/
 
 6.Singly-linked list
 
-7.beginner
+7.Sorting algorithms
+# Bubble sort
+# Selection sort
+# Insertion sort
+# Quick sort
+
+8.beginner
 # advanced for c++
